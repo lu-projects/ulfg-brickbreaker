@@ -29,4 +29,4 @@ This is a custom-built Brick Breaker game featuring a personalized theme based o
 * **Data Persistence:** Uses `Application.persistentDataPath` for `highscore.json`.
 * **Architecture:** Implements a Singleton GameManager for stable data management across scenes.
 * **UI Scaling:** Configured with Anchor Presets and Canvas Scaler to prevent edge-clamping on different monitors.
-* 
+* Used design patterns like Observer, Singleton and State pattern, for better scaling later.

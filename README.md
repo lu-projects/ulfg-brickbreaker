@@ -1,4 +1,4 @@
-# 🏛️ University Brick Breaker
+# 🏛️ ULFG Brick Breaker
 
 **Developed by:** Imad Albekai 
 **Project Type:** 2D Arcade Game (Unity)

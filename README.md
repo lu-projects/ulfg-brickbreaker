@@ -21,7 +21,7 @@ This is a custom-built Brick Breaker game featuring a personalized theme based o
 4. **Lives:** You start with **5 lives**. 
 
 ## 📸 Gameplay
-
+![Alt text](Screenshot_20260208-154617.png)
 ---
 
 ## 🛠️ Technical Details

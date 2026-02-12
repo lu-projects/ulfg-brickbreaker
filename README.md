@@ -15,7 +15,7 @@ This is a custom-built Brick Breaker game featuring a personalized theme based o
 * **Responsive UI:** Built with a flexible Canvas system to work on various screen resolutions.
 
 ## 🎮 How to Play
-1. **Launch:** Open the `exe file` from the release folder.
+1. **Launch:** Open the `exe file` from the release folder, in the Releases section.
 2. **Controls:** Use your **Arrows** to move the paddle left and right.
 3. **Objective:** Bounce the ball to destroy all bricks. Don't let the ball fall!
 4. **Lives:** You start with **5 lives**. 
